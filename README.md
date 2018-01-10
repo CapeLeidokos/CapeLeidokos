@@ -9,4 +9,5 @@ A build, development and testing infrastructure for the Kaleidoscope firmware.
 
 ## Third party dependencies
 * [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
+* [Kaleidoscope-Hardware-Virtual](https://github.com/keyboardio/Kaleidoscope-Hardware-Virtual)
 * [arduino-cmake](https://github.com/arduino-cmake/arduino-cmake)
