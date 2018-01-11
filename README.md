@@ -1,4 +1,4 @@
-# Capeleido
+# CapeLeidokos
 A build, development and testing infrastructure for the Kaleidoscope firmware.
 
 ## Components
@@ -11,4 +11,4 @@ A build, development and testing infrastructure for the Kaleidoscope firmware.
 * [Kaleidoscope-Hardware-Virtual](https://github.com/keyboardio/Kaleidoscope-Hardware-Virtual)
 * [arduino-cmake](https://github.com/arduino-cmake/arduino-cmake)
 
-<img src="https://github.com/noseglasses/Capeleido/blob/master/Capeleido.svg?sanitize=true">
+<img src="https://github.com/noseglasses/CapeLeidokos/blob/master/CapeLeidokos.svg?sanitize=true">
