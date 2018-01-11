@@ -19,13 +19,29 @@
   <defs
      id="defs4">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5073"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5075" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
        refY="0"
        refX="0"
        id="marker20610"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path20612"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
@@ -292,9 +308,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="340.12998"
-     inkscape:cy="178.82199"
+     inkscape:cy="285.0644"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g20359"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="709"
@@ -407,7 +423,7 @@
                id="tspan21966"><tspan
                  x="161.42857"
                  y="26.387642"
-                 id="tspan21968">Kaleidoscope-Testing</tspan></tspan></text>
+                 id="tspan21968">Leidokos-Testing</tspan></tspan></text>
         </g>
         <g
            id="g4353-20"
@@ -497,7 +513,7 @@
                    id="tspan22016"><tspan
                      x="161.42857"
                      y="26.387642"
-                     id="tspan22018">Kaleidoscope-Python </tspan></tspan></text>
+                     id="tspan22018">Leidokos-Python </tspan></tspan></text>
             </g>
           </g>
           <text
@@ -622,7 +638,7 @@
                    id="tspan22066"><tspan
                      x="161.42857"
                      y="26.387642"
-                     id="tspan22068">Kaleidoscope-CMake</tspan></tspan></text>
+                     id="tspan22068">Leidokos-CMake</tspan></tspan></text>
             </g>
             <g
                id="g4353"
@@ -1074,64 +1090,135 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="295.09912"
-           y="498.49225"
+           y="516.49225"
            id="text9999"
            sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan10001"
-             x="295.09912"
-             y="498.49225">access</tspan><tspan
              id="tspan16958"
              sodipodi:role="line"
              x="295.09912"
-             y="517.24225">plugin states</tspan></text>
+             y="516.49225">plugin states</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="218.52785"
-           y="453.29742"
+           x="249.53275"
+           y="434.15002"
            id="text9999-7"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan10001-4"
-             x="218.52785"
-             y="453.29742">LEDs</tspan></text>
-        <path
-           sodipodi:nodetypes="cc"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10029)"
-           d="M 300.71037,358.24418 239.2049,389.16661"
-           id="path10021"
-           inkscape:connector-curvature="0" />
+             x="249.53275"
+             y="434.15002">LEDs</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="209.17238"
-           y="342.89459"
+           x="161.17239"
+           y="442.89462"
            id="text9999-7-3"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan10001-4-7"
-             x="209.17238"
-             y="342.89459">report </tspan><tspan
+             x="161.17239"
+             y="442.89462">report </tspan><tspan
              sodipodi:role="line"
-             x="209.17238"
-             y="361.64459"
+             x="161.17239"
+             y="461.64462"
              id="tspan10303">callbacks</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="307.7438"
-           y="439.11426"
+           x="309.7438"
+           y="457.11426"
            id="text9999-9"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
-             id="tspan10001-0"
-             x="307.7438"
-             y="439.11426">access</tspan><tspan
-             sodipodi:role="line"
-             x="307.7438"
-             y="457.86426"
+             x="309.7438"
+             y="457.11426"
              id="tspan10305-0">core state</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart-8);marker-end:url(#Arrow2Lend-1)"
+           d="m 512.5457,501.71883 9.27829,-23.15299"
+           id="path5767-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart-8-6);marker-end:url(#Arrow2Lend-1-4)"
+           d="m 601.12908,501.42191 -17.0562,-21.85442"
+           id="path5767-0-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path17781"
+           d="m 269.17188,478.79093 33.68527,-62.85714"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker17899);filter:url(#filter17783)" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path19453"
+           d="m 141.21919,414.15931 0,63.77448"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker19461)" />
+        <g
+           id="g5293-0-0"
+           transform="translate(-388.05345,-41.946346)"
+           style="fill:#006680;stroke:#006680;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+          <g
+             style="fill:#00ccff"
+             transform="translate(18.999994,-81)"
+             id="g10627-2">
+            <rect
+               rx="15"
+               style="opacity:1;fill:#aaeeff;fill-opacity:1;stroke:#006680;stroke-width:1.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect5215-3-9"
+               width="88.000015"
+               height="71.999962"
+               x="470.05347"
+               y="466.30881"
+               ry="15" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006680;fill-opacity:1;stroke:#00ccff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               x="488.27588"
+               y="497.07196"
+               id="text5217-5-6"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5219-5-0"
+                 x="488.27588"
+                 y="497.07196">Python</tspan><tspan
+                 sodipodi:role="line"
+                 x="488.27588"
+                 y="515.82196"
+                 id="tspan4805">scripts</tspan></text>
+          </g>
+        </g>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5073)"
+           d="M 254.46192,479.07301 189.91879,385.9359"
+           id="path5065"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="204.23589"
+           y="383.75888"
+           id="text9999-7-3-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="204.23589"
+             y="383.75888"
+             id="tspan10303-7">firmware</tspan><tspan
+             sodipodi:role="line"
+             x="204.23589"
+             y="402.50888"
+             id="tspan5214">hooks</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10029)"
+           d="m 156.17732,482.49296 1.12399,-64.03192"
+           id="path10021"
+           inkscape:connector-curvature="0" />
         <g
            id="g5293-0"
            transform="translate(-369.94649,-9.9463465)"
@@ -1161,60 +1248,17 @@
                  y="511.50037">C++/Python interface</tspan></text>
           </g>
         </g>
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart-8);marker-end:url(#Arrow2Lend-1)"
-           d="m 498.5457,503.71883 9.27829,-23.15299"
-           id="path5767-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart-8-6);marker-end:url(#Arrow2Lend-1-4)"
-           d="m 575.12908,503.42191 -17.0562,-21.85442"
-           id="path5767-0-3"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <g
-           id="g5293-0-0"
-           transform="translate(-388.05345,-19.946346)"
-           style="fill:#006680;stroke:#006680;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-          <g
-             style="fill:#00ccff"
-             transform="translate(18.999994,-81)"
-             id="g10627-2">
-            <rect
-               rx="15.000001"
-               style="opacity:1;fill:#aaeeff;fill-opacity:1;stroke:#006680;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect5215-3-9"
-               width="138"
-               height="49.893028"
-               x="470.05347"
-               y="482.41568"
-               ry="15" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006680;fill-opacity:1;stroke:#00ccff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               x="485.45483"
-               y="511.50037"
-               id="text5217-5-6"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan5219-5-0"
-                 x="485.45483"
-                 y="511.50037">Python scripts</tspan></text>
-          </g>
-        </g>
-        <path
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0"
-           id="path17781"
-           d="m 237.85715,478.79093 65,-62.85714"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker17899);filter:url(#filter17783)" />
-        <path
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0"
-           id="path19453"
-           d="m 165.21919,432.36236 0,43.57143"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker19461)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="93.172394"
+           y="450.89462"
+           id="text9999-7-3-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="93.172394"
+             y="450.89462"
+             id="tspan10303-5">states</tspan></text>
       </g>
     </g>
     <g
