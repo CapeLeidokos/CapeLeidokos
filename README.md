@@ -2,9 +2,9 @@
 A build, development and testing infrastructure for the Kaleidoscope firmware.
 
 ## Components
-* [Kaleidoscope-Testing](https://github.com/CapeLeidokos/Leidokos-Testing)
-* [Kaleidoscope-Python](https://github.com/CapeLeidokos/Leidokos-Python)
-* [Kaleidoscope-CMake](https://github.com/CapeLeidokos/Leidokos-CMake)
+* [Leidokos-Testing](https://github.com/CapeLeidokos/Leidokos-Testing)
+* [Leidokos-Python](https://github.com/CapeLeidokos/Leidokos-Python)
+* [Leidokos-CMake](https://github.com/CapeLeidokos/Leidokos-CMake)
 
 ## Third party dependencies
 * [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
