@@ -2,6 +2,7 @@
 A build, development and testing infrastructure for the Kaleidoscope firmware.
 
 <img src="https://github.com/CapeLeidokos/CapeLeidokos/blob/master/CapeLeidokos.svg?sanitize=true">
+
 ## Components
 
 [st:stable]: https://img.shields.io/badge/stable-✔-black.svg?style=flat&colorA=44cc11&colorB=494e52
