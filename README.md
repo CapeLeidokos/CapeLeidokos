@@ -53,7 +53,7 @@ A Python scriptable [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) f
 [Leidokos-Python:python:api:image]: https://img.shields.io/badge/Python-API-ff69b4.svg?style=for-the-badge
 [Leidokos-Python:python:api:target]: https://capeleidokos.github.io/Leidokos-Python/API/index.html
 
-![status][st:experimental]
+![status][st:stable]
 [![Linux Build Status][Leidokos-Python:travis:linux:image]][Leidokos-Python:travis:linux:target]
 [![MacOS Build Status][Leidokos-Python:travis:MacOS:image]][Leidokos-Python:travis:MacOS:target]
 [![Latest version][Leidokos-Python:version:image]][Leidokos-Python:version:target]
@@ -67,8 +67,12 @@ A regression testing system for the [Kaleidoscope](https://github.com/keyboardio
 [Leidokos-Testing:travis:linux:image]: https://img.shields.io/travis/CapeLeidokos/Leidokos-Testing.svg?style=for-the-badge&label=Linux&branch=master
 [Leidokos-Testing:travis:linux:target]: https://travis-ci.org/CapeLeidokos/Leidokos-Testing
 
+[Leidokos-Testing:version:image]: https://img.shields.io/github/release/CapeLeidokos/Leidokos-Testing.svg?style=for-the-badge
+[Leidokos-Testing:version:target]: https://github.com/CapeLeidokos/Leidokos-Testing/releases
+
 ![status][st:experimental]
-[![Linux Build Status][Leidokos-Python:travis:linux:image]][Leidokos-Python:travis:linux:target]
+[![Linux Build Status][Leidokos-Testing:travis:linux:image]][Leidokos-Testing:travis:linux:target]
+[![Latest version][Leidokos-Testing:version:image]][Leidokos-Testing:version:target]
 
 ## Third party dependencies
 * [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope)
